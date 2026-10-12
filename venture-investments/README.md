@@ -6,8 +6,6 @@ This project explores historical startup funding data to support a venture capit
 
 The analysis covers market segmentation, funding amounts, investment trends, and recorded returns. Recommendations are framed as of **2015**, based on historical data.
 
-This educational project was completed as part of the Yandex Practicum Data Analyst program.
-
 ## Dataset
 
 The analysis uses two datasets:

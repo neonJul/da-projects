@@ -6,8 +6,6 @@ BitMotion Kit, an online store selling gamified fitness products, tested a new w
 
 The goal of this project is to evaluate the experiment and determine whether the new interface achieves the target conversion increase of **3 percentage points**.
 
-This educational project was completed as part of the Yandex Practicum Data Analyst program.
-
 ## Dataset
 
 The analysis uses two datasets:
